@@ -1,2 +1,1 @@
-# hello-world
-This is my very first repository, let's hope that all goes well.
+Salutations to the day of friendship's delight, greeting the heart of ther righteous bright!
